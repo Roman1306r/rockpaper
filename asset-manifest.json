@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rockpaper/static/css/main.e4db8bdd.css",
+    "main.js": "/rockpaper/static/js/main.e8de62f9.js",
+    "static/media/scissors.jpg": "/rockpaper/static/media/scissors.7efc0d3628d65632b721.jpg",
+    "static/media/rock.jpg": "/rockpaper/static/media/rock.103e96d28481a23275fb.jpg",
+    "static/media/paper.jpg": "/rockpaper/static/media/paper.586d07d5d6467c7982b4.jpg",
+    "index.html": "/rockpaper/index.html",
+    "main.e4db8bdd.css.map": "/rockpaper/static/css/main.e4db8bdd.css.map",
+    "main.e8de62f9.js.map": "/rockpaper/static/js/main.e8de62f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4db8bdd.css",
+    "static/js/main.e8de62f9.js"
+  ]
+}
